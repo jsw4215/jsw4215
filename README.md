@@ -13,9 +13,9 @@
 ### 💻 Skills 
 <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white">
-    <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=AndroidStudio&logoColor=white">
     <img src="https://img.shields.io/badge/socket.io-ffffff?style=flat-square&logo=socket.io&logoColor=black">
   </p>
 <p>
