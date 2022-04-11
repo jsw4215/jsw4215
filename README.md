@@ -13,10 +13,10 @@
 ### 💻 Skills 
 <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/React-339933?style=flat-square&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/React-87CEFA?style=flat-square&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/java-E0234E?style=flat-square&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/socket.io-ffffff?style=flat-square&logo=socket.io&logoColor=black">
-    <img src="https://img.shields.io/badge/webRTC-ffffff?style=flat-square&logo=webRTC&logoColor=black">
+    <img src="https://img.shields.io/badge/socket.io-FFFFE0?style=flat-square&logo=socket.io&logoColor=black">
+    <img src="https://img.shields.io/badge/webRTC-339933?style=flat-square&logo=webRTC&logoColor=black">
   </p>
 <p>
     <img src="https://img.shields.io/badge/flask-4479A1?style=flat-square&logo=flask&logoColor=white"> 
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/AWS S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/AWS cloudfront-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/AWS route53-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-232F3E?style=flat-square&logo=firebase&logoColor=white"> 
+    <img src="https://img.shields.io/badge/firebase-D3D3D3?style=flat-square&logo=firebase&logoColor=white"> 
   </p>
 
 ### 🛠 Tools
