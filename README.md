@@ -35,3 +35,8 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
+
+### 📜 Resume
+<p>
+  https://well-selenium-cea.notion.site/SeokWoo-d3389ee3398d4959a50de2a6546e4678
+</p>
