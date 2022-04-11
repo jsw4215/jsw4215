@@ -9,7 +9,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsw4215%2Fhit-counter&count_bg=%2300A647&title_bg=%231A1A1A&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsw4215&show_icons=true&theme=tokyonight)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jsw4215)](https://solved.ac/jsw4215)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsw4215)](https://solved.ac/jsw4215)
   
 ### 💻 Skills 
 <p>
