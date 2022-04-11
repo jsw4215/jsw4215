@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/AWS S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/AWS cloudfront-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/AWS route53-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-D3D3D3?style=flat-square&logo=firebase&logoColor=white"> 
+    <img src="https://img.shields.io/badge/firebase-A9A9A9?style=flat-square&logo=firebase&logoColor=white"> 
   </p>
 
 ### 🛠 Tools
