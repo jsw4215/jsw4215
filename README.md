@@ -5,8 +5,8 @@
 <br/>
 <p>
   <a href="mailto:jsw4215van@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>  
-  <a href="https://velog.io/@jsw4215" target="_blank"><img src="https://img.shields.io/badge/Tistory-84a8ad?style=flat-square"/></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWON-JIN-LEE%2Fhit-counter&count_bg=%2300A647&title_bg=%231A1A1A&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
+  <a href="https://velog.io/@jsw4215" target="_blank"><img src="https://img.shields.io/badge/Velog-40E0D0?style=flat-square"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsw4215%2Fhit-counter&count_bg=%2300A647&title_bg=%231A1A1A&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WON-JIN-LEE&show_icons=true&theme=tokyonight)
 
