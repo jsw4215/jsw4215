@@ -9,10 +9,12 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsw4215%2Fhit-counter&count_bg=%2300A647&title_bg=%231A1A1A&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsw4215&show_icons=true&theme=tokyonight)
+<br/>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsw4215&color=dark)](https://velog.io/@jsw4215)
+<br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsw4215)](https://solved.ac/jsw4215)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsw4215&color=dark)](https://velog.io/@jsw4215)
-
+<br/>
 ### 💻 Skills 
 <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
