@@ -11,7 +11,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsw4215&show_icons=true&theme=tokyonight)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsw4215)](https://solved.ac/jsw4215)
-  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsw4215&tag=TIL&color=dark)](https://velog.io/@vivala0519)
+
 ### 💻 Skills 
 <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
